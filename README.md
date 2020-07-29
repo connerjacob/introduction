@@ -1,0 +1,9 @@
+ntroduction - Jacob Conner
+
+Hi, my name is Jacob Conner. I am a computer science major at ODU taking CS 432. I live in Blacksburg, Virginia and about 4 minutes from Virginia Tech. I currently work full time providing chat support at DISH Network to report and provide work arounds for agent tools.  In general I anticipate spending most of my time working on this course on Wednesdays and Thursdays and probably some after 9pm on particularly slow days at work.
+
+I am taking this course because I have always been interested in web-based technologies. PHP was the very first programming language I learned so I could interface with a MySQL database. I taught myself the language while working on my Anthrological Science degree to better store lithic and osteological information and I have been working with different databases and web servers ever since. Since databases are big interest of mine, I would be interested in any clear web scraping or data mining methods that we might touch on in this course. In addition to databases, I am interested in WebAssembly and the ability compile C++ code for the web and I am excited to see the gap between desktop applications and web applications shrink.
+
+I am a perpetual student and spent most of the last 15 years, working on getting into Archaeology. I haven't given up entirely, but I think it will be more of a hobby while I hopefully work towards the dream of freelance coding. I have a B.A. in History and a B.S. in Anthropological Science. I also worked on a Masters at the University of Alberta and wasto spend two summers working on the Hamanaka 2 Site (2500BC - Present) in Rebun, Japan. During field work during the Summer of 2013, we uncovered two Okhotsk period skeletons (800 AD) and have found numerous lithics and faunal remains. Ultimately, due to the project ending and a variety of other differences with the supervisor, I chose to leave after completing the coursework.
+
+
