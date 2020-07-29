@@ -1,4 +1,4 @@
-#Introduction - Jacob Conner
+# Introduction - Jacob Conner
 
 Hi, my name is Jacob Conner. I am a computer science major at ODU taking CS 432. I live in Blacksburg, Virginia and about 4 minutes from Virginia Tech. I currently work full time providing chat support at DISH Network to report and provide work arounds for agent tools.  In general I anticipate spending most of my time working on this course on Wednesdays and Thursdays and probably some after 9pm on particularly slow days at work.
 
